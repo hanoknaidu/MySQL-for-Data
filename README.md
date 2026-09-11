@@ -1,11 +1,8 @@
 # Data Analytics Portfolio
 
-A collection of SQL, Python, and data cleaning/analysis projects covering credit risk, household income, global life expectancy, and relational database design.
+A collection of SQL,and data cleaning/analysis projects covering household income, global life expectancy, and relational database design.
 
 ## Contents
-
-### Credit Risk
-- **`01_credit_risk_EDA.ipynb`** — Exploratory data analysis notebook examining credit risk data (distributions, correlations, and key risk indicators).
 
 ### US Household Income
 - **`US Household Income Data Handling.sql`** — SQL script for cleaning and transforming the raw household income dataset (deduplication, standardization, joins).
@@ -21,17 +18,11 @@ A collection of SQL, Python, and data cleaning/analysis projects covering credit
 - **`create-bakery-db.sql`** — Script to create a sample bakery relational database schema.
 - **`create-bakery-db - potential fix.sql`** — Revised version addressing issues found in the original schema/script.
 
-### Python Practice
-- **`Second_test_file.py`** — Python practice/test script.
-- **`new_code.py`** — Python practice/test script.
-- **`practice1.py`** — Python practice/test script.
-
 ### Certifications
 - **`Hanok Naidu Suravarapu - MySQL for Data Analytics Certificate.pdf`** — MySQL for Data Analytics certificate.
 
 ## Tools & Skills
 - **SQL** (MySQL Workbench): window functions, CASE statements, JOINs, pivot tables, data cleaning
-- **Python**: foundational scripting, OOP, debugging
 - **Data Analysis**: EDA, descriptive statistics, data cleaning pipelines
 
 ## Getting Started
@@ -41,10 +32,6 @@ A collection of SQL, Python, and data cleaning/analysis projects covering credit
    ```
 2. For SQL scripts, import the relevant `.sql` file into MySQL Workbench (or your preferred client) and run against the corresponding dataset.
 3. For the notebook, open `01_credit_risk_EDA.ipynb` in Jupyter Notebook or JupyterLab.
-4. Python practice files can be run directly with:
-   ```bash
-   python new_code.py
-   ```
 
 ## Notes
 This repo is a working portfolio of data analytics practice projects — a mix of guided coursework, self-directed exploration, and cleanup/fixes on earlier scripts.
